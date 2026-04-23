@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Liberación controlada de fármacos por hidrogeles
+message: >-
+  Gemelos digitales / Ingeniería Biomédica / Instituto
+  Nacional de México
+type: software
+authors:
+  - given-names: Brianna Vanessa
+    family-names: Lopez Pardo
+    email: l22212261@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: 'https://github.com/bvanessalopezp/Practica3GD'
+keywords:
+  - Nanohidrogeles
+  - Solución de EDOs
+  - Simulaciones numéricas
+  - Liberación controlada
+  - Modelo matemático
+license: BSD-2-Clause
+version: '1'
+date-released: '2026-04-22'
